@@ -105,9 +105,3 @@ Current final result files include:
 These files are intended for cross-model comparison of AFM task code-generation quality.
 
 ---
-
-## Figure
-
-![Model architecture of RAG based Code Generator.](assets/model_architecture.png)
-
-*Figure: Model architecture of RAG based Code Generator.*
