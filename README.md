@@ -85,7 +85,7 @@ setx OPENAI_API_KEY "your_key"
 
 ---
 
-## 6) Evaluation Outputs in This Repo
+## 5) Evaluation Outputs in This Repo
 
 Current final result files include:
 
