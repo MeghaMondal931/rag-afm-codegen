@@ -16,7 +16,10 @@ The workflow:
 4. Compare model outputs across multiple LLMs and summarize results.
 
 ---
+<img width="1593" height="896" alt="rag_afm_codegen_archi_img" src="https://github.com/user-attachments/assets/7d923096-a9b3-44af-bb04-bdb318497e53" />
+Figure: Model architecture of RAG based Code Generator
 
+---
 ## 2) Repository Structure
 
 ```text
