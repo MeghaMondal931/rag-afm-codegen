@@ -35,6 +35,8 @@ rag-afm-codegen/
 │   ├── question_AFM_deepseek_fin.csv
 │   ├── question_AFM_llama_fin.csv
 │   └── question_AFM_mistral_fin.csv
+├── assets/
+│   └── model_architecture.png
 ├── .gitignore
 └── README.md
 ```
@@ -63,6 +65,9 @@ rag-afm-codegen/
 
 - **`result/plots_fin/`** and **`result/all results csv and plot/`**  
   Final plots and merged evaluation artifacts.
+
+- **`assets/model_architecture.png`**  
+  Model architecture figure used in this README.
 
 ---
 
@@ -95,3 +100,11 @@ Current final result files include:
 - `result/question_AFM_mistral_fin.csv`
 
 These files are intended for cross-model comparison of AFM task code-generation quality.
+
+---
+
+## Figure
+
+![Model architecture of RAG based Code Generator.](assets/model_architecture.png)
+
+*Figure: Model architecture of RAG based Code Generator.*
