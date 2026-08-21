@@ -104,3 +104,10 @@ Current final result files include:
 
 These files are intended for cross-model comparison of AFM task code-generation quality.
 
+---
+## 6) Main findings
+- RAG improved grounding by providing function-specific context to the LLM.
+- Without external documentation, general LLMs often generated non-executable or hallucinated instrument-control code.
+- Advanced tasks remained difficult due to reasoning errors, wrong function selection, and missing steps.
+- A code validation layer is necessary before using LLM-generated scripts in physical instrument workflows.
+
